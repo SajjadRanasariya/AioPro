@@ -1,0 +1,282 @@
+[{
+  "_id": {
+    "$oid": "65641f67be3dc99b14195818"
+  },
+  "zoneCode": "Gj",
+  "zoneName": "Gujarat",
+  "createdOn": {
+    "$date": "2023-11-27T04:47:35.388Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-11-27T04:47:35.388Z"
+  },
+  "__v": 0,
+  "cityName": "Junagadh"
+},
+{
+  "_id": {
+    "$oid": "656422046cdeb0fd8aebaf15"
+  },
+  "zoneCode": "MP",
+  "zoneName": "Madhya Pradesh",
+  "createdOn": {
+    "$date": "2023-11-27T04:58:44.803Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-11-27T04:58:44.803Z"
+  },
+  "__v": 0,
+  "cityName": ""
+},
+{
+  "_id": {
+    "$oid": "658903e53257a95c5152b2c2"
+  },
+  "zoneCode": "MH",
+  "zoneName": "Maharashtra",
+  "createdOn": {
+    "$date": "2023-12-25T04:24:05.431Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:24:05.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658904053257a95c5152b2c7"
+  },
+  "zoneCode": "KL",
+  "zoneName": "Kerala",
+  "createdOn": {
+    "$date": "2023-12-25T04:24:37.833Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:24:37.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589046e3257a95c5152b2cc"
+  },
+  "zoneCode": "RJ",
+  "zoneName": "Rajasthan",
+  "createdOn": {
+    "$date": "2023-12-25T04:26:22.678Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:26:22.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658904873257a95c5152b2d1"
+  },
+  "zoneCode": "TN",
+  "zoneName": "Tamil Nadu",
+  "createdOn": {
+    "$date": "2023-12-25T04:26:47.107Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:26:47.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658905113257a95c5152b2e7"
+  },
+  "zoneCode": "PB",
+  "zoneName": "Punjab",
+  "createdOn": {
+    "$date": "2023-12-25T04:29:05.101Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:29:05.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589053c3257a95c5152b2ec"
+  },
+  "zoneCode": "DL",
+  "zoneName": "Delhi",
+  "createdOn": {
+    "$date": "2023-12-25T04:29:48.990Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:29:48.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658905583257a95c5152b2f1"
+  },
+  "zoneCode": "GA",
+  "zoneName": "Goa",
+  "createdOn": {
+    "$date": "2023-12-25T04:30:16.395Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:30:16.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589056a3257a95c5152b2f6"
+  },
+  "zoneCode": "HR",
+  "zoneName": "Haryana",
+  "createdOn": {
+    "$date": "2023-12-25T04:30:34.726Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:30:34.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589058d3257a95c5152b2fb"
+  },
+  "zoneCode": "UK",
+  "zoneName": "Uttarakhand",
+  "createdOn": {
+    "$date": "2023-12-25T04:31:09.441Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:31:09.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589059d3257a95c5152b300"
+  },
+  "zoneCode": "WB",
+  "zoneName": "West Bengal",
+  "createdOn": {
+    "$date": "2023-12-25T04:31:25.080Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:31:25.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658905b63257a95c5152b305"
+  },
+  "zoneCode": "TS",
+  "zoneName": "Telangana",
+  "createdOn": {
+    "$date": "2023-12-25T04:31:50.938Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:31:50.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658905cb3257a95c5152b30a"
+  },
+  "zoneCode": "OD",
+  "zoneName": "Odisha",
+  "createdOn": {
+    "$date": "2023-12-25T04:32:11.412Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:32:11.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658905e73257a95c5152b30f"
+  },
+  "zoneCode": "JH",
+  "zoneName": "Jharkhand",
+  "createdOn": {
+    "$date": "2023-12-25T04:32:39.191Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:32:39.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658905f43257a95c5152b314"
+  },
+  "zoneCode": "JK",
+  "zoneName": "Jammu and Kashmir",
+  "createdOn": {
+    "$date": "2023-12-25T04:32:52.523Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:32:52.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658906193257a95c5152b319"
+  },
+  "zoneCode": "KA",
+  "zoneName": "Karnataka",
+  "createdOn": {
+    "$date": "2023-12-25T04:33:29.449Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:33:29.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658906323257a95c5152b31e"
+  },
+  "zoneCode": "UP",
+  "zoneName": "Uttar Pradesh",
+  "createdOn": {
+    "$date": "2023-12-25T04:33:54.825Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:33:54.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589065b3257a95c5152b323"
+  },
+  "zoneCode": "TR",
+  "zoneName": "Tripura",
+  "createdOn": {
+    "$date": "2023-12-25T04:34:35.511Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:34:35.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658906763257a95c5152b328"
+  },
+  "zoneCode": "SK",
+  "zoneName": "Sikkim",
+  "createdOn": {
+    "$date": "2023-12-25T04:35:02.289Z"
+  },
+  "modifiedOn": {
+    "$date": "2023-12-25T04:35:02.289Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "878ed19c-8f9b-45b7-9016-d4588c4ab520",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1736767885797"
+        }
+      },
+      "favorite": {
+        "name": "aioprocluster.6bymmsa.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://jaysukhspecscale:azMxRU5jECbIndyn@aioprocluster.6bymmsa.mongodb.net/?retryWrites=true&w=majority",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

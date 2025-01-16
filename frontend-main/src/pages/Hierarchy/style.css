@@ -1,0 +1,56 @@
+.context-menu {
+  background: white;
+  border-style: solid;
+  box-shadow: 10px 19px 20px rgba(0, 0, 0, 10%);
+  position: absolute;
+  z-index: 10;
+}
+
+.context-menu button {
+  border: none;
+  display: block;
+  padding: 0.5em;
+  text-align: right;
+  width: 100%;
+}
+
+.context-menu button:hover {
+  background: white;
+}
+
+.react-flow__panel>a {
+  display: none !important;
+}
+
+.react-flow__node {
+  /* font-size: 15px !important; */
+  border: none;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 7px 7px 7px 7px;
+  border: none !important;
+  /* padding-bottom: 2px; */
+  box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+  /* width: 100px !important; */
+  /* line-height: 180%; */
+}
+
+.react-flow__edge-text {
+  font-size: 10px !important;
+  width: 60px;
+  text-transform: capitalize;
+}
+
+.react-flow__edge {
+  stroke-dasharray: 14 !important;
+  text-transform: capitalize;
+}
+
+.react-flow__node-default {
+  text-transform: capitalize;
+}
+
+.react-flow__node-default:hover {
+  border: 2px solid rgb(8, 8, 8) !important;
+}
